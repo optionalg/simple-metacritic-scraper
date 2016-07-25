@@ -13,3 +13,24 @@ To Do:
 6. Add module to write to PIPE DELIMITED TEXT FILE (never use CSV in the real world)
 7. Add script to import and analyze the data and add some visualization
 8. Ideas?
+
+
+BRADY:
+Genre and PG-Rating for Each Movie
+
+# Movies over Time
+Scores by Genre
+Score by Rating
+Highest year in terms of dating
+Genres by Year
+Violin Plot of Rating Distribution by Genre
+top 5 movies per year (what are their best )
+
+Scatter plot of user ratings by critic rating // color by bucketed genre (limit to movies that have enough people)
+
+
+Removals: 
+-- Remove movies that have "too few" ratings by critics and people
+
+User Interaction:
+1) Choose your birthdate and favourite genre and it will reccomed a movie closest to that day in that genre
